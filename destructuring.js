@@ -100,3 +100,5 @@ function getDetails(name, age) {
 const [name, age] = getDetails("Hans", "36");
 
 console.log(name,  age);
+
+console.log("Veel plezier met nakijken")
